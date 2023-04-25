@@ -1610,12 +1610,12 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-native@^0.67.3":
-  version "0.67.14"
-  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.67.14.tgz#011d9d814067f91f41de7b3b618c7b96a9fc5a8f"
-  integrity sha512-wAMGueaLav3OAhe62ivJ2FDcaYkOc4UGeCNPgxm0FXJotV4dRxpc5HxAvLkBnxH7CWqYhND94DHn4Mb8aHJIZg==
+"@types/react-native@^0.71.5":
+  version "0.71.6"
+  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.71.6.tgz#bf0fc6a69bf0c2933c089dfb19fc182b09cb7790"
+  integrity sha512-eCqEZ+GhW9L9o6yVoPqCCAq8Sbd6liaKlh6WviD0X7O035NEe7VQ+q9KXYL+mhyZrLI5sbX7f3G973gG6fuiyQ==
   dependencies:
-    "@types/react" "^17"
+    "@types/react" "*"
 
 "@types/react-test-renderer@^17.0.1":
   version "17.0.2"
